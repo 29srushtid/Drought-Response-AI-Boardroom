@@ -11,6 +11,7 @@ Drought-Response-AI-Boardroom/
 └── Boardroom-transcript/
     └── transcript-log.md
 ```
+
 ## Overview
 This project simulates an emergency task force convened to address an acute El Niño-driven drought crisis. Four AI agent personas—representing competing domains (hydrology, agriculture, municipal infrastructure, and finance)—negotiate resource allocation under strict data-driven constraints.
 
