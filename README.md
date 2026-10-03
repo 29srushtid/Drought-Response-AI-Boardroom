@@ -2,7 +2,7 @@
 
 A multi-agent crisis management simulation demonstrating multi-persona negotiation, prompt chaining, and AI alignment in response to severe climate crises.
 
-## Repository Architecture
+```## Repository Architecture
 Drought-Response-AI-Boardroom/
 ├── README.md
 ├── crisis-scenario/
@@ -10,7 +10,7 @@ Drought-Response-AI-Boardroom/
 ├── agent-personas/
 │   └── boardroom-agents.md
 └── Boardroom-transcript/
-    └── transcript-log.md
+    └── transcript-log.md```
     
     
 
