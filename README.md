@@ -1,7 +1,7 @@
 # Drought Response AI Boardroom
 
 A multi-agent crisis management simulation demonstrating multi-persona negotiation, prompt chaining, and AI alignment in response to severe climate crises.
-```
+
 ## Repository Architecture
 Drought-Response-AI-Boardroom/
 ├── README.md
@@ -11,7 +11,7 @@ Drought-Response-AI-Boardroom/
 │   └── boardroom-agents.md
 └── Boardroom-transcript/
     └── transcript-log.md
-    ```
+    
     
 
 ## Overview
