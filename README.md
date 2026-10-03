@@ -1,32 +1,19 @@
-
 # Drought Response AI Boardroom
 
 A multi-agent crisis management simulation demonstrating multi-persona negotiation, prompt chaining, and AI alignment in response to severe climate crises.
 
+Drought-Response-AI-Boardroom/
+├── README.md
+├── crisis-scenario/
+│   └── el-nino-drought-brief.md
+├── agent-personas/
+│   └── boardroom-agents.md
+└── Boardroom-transcript/
+    └── transcript-log.md
+
 ## Overview
 
 This project simulates an emergency task force convened to address an acute El Niño-driven drought crisis. Four AI agent personas—representing competing domains (hydrology, agriculture, municipal infrastructure, and finance)—negotiate resource allocation under strict data-driven constraints.
-
-
-## Repository Architecture
-
-Drought-Response-AI-Boardroom/
-
-├── README.md
-
-├── crisis-scenario/
-
-
-│   └── el-nino-drought-brief.md
-
-├── agent-personas/
-
-│   └── boardroom-agents.md
-
-└── Boardroom-transcript/
-
-    └── transcript-log.md
-
 
 ## Key Features & Skills Demonstrated
 
