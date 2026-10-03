@@ -5,3 +5,10 @@ A multi-agent crisis management simulation demonstrating multi-persona negotiati
 ## Overview
 
 This project simulates an emergency task force convened to address an acute El Niño-driven drought crisis. Four AI agent personas—representing competing domains (hydrology, agriculture, municipal infrastructure, and finance)—negotiate resource allocation under strict data-driven constraints.
+
+## Key Features & Skills Demonstrated
+# Multi-Agent Simulation: Orchestrating complex technical debates across four specialized personas with distinct risk profiles.
+
+# Context Alignment & Chaining: Maintaining cohesive narrative and domain constraints across multi-turn interactions.
+
+# Systems Architecture: Designing modular prompt frameworks for crisis mitigation and structured decision-making.
