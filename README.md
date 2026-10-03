@@ -11,12 +11,20 @@ This project simulates an emergency task force convened to address an acute El N
 ## Repository Architecture
 
 Drought-Response-AI-Boardroom/
+
 ├── README.md
+
 ├── crisis-scenario/
+
+
 │   └── el-nino-drought-brief.md
+
 ├── agent-personas/
+
 │   └── boardroom-agents.md
+
 └── Boardroom-transcript/
+
     └── transcript-log.md
 
 
